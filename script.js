@@ -2,6 +2,7 @@
 // const para=document.querySelector("p")
 // para.innerText="Hello Shubham"
 // para.style.backgroundColor="Black"
+// para.style.color="White"
 
 
 // Selecting elements by class name

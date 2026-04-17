@@ -7,7 +7,7 @@
 
 // Selecting elements by class name
 
-// const paras=document.getElementsByClassName("para")
+
 // paras[0].innerText="Hello!"
 // paras[0].innerHTML="<h1 style='color:red; background-color:Thistle;'>WOOWWWW</h1>"
 // paras[1].style.color='Blue'
